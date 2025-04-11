@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with [Scheduler App](https://github.com/certainlyMohneeesh/scheduler-calendar)
 
-- 👨‍💻 All of my projects are available at [https://mohneesh.cyth.me](https://mohneesh.cyth.me)
+- 👨‍💻 All of my projects are available at [My Website](https://mohneesh.cyth.me)
 
-- 📝 I regularly write articles on [https://blog.cyth.me/](https://blog.cyth.me/)
+- 📝 I regularly write articles on [My Blogs](https://blog.cyth.me/)
 
 - 💬 Ask me about **React, JavaScript, ML**
 
 - 📫 How to reach me **certainlymohneesh@gmail.com**
 
-- 📄 Know about my experiences [https://mohneesh.cyth.me/resume.pdf](https://mohneesh.cyth.me/Mohneesh_resume.pdf)
+- 📄 Know about my experiences [Resume](https://mohneesh.cyth.me/Mohneesh_resume.pdf)
 
 - ⚡ Fun fact **When I'm not building web apps or leading innovative projects, you'll often find me experimenting in the kitchen, perfecting recipes that bring people together.**
 
