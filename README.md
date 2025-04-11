@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **certainlymohneesh@gmail.com**
 
-- 📄 Know about my experiences [https://mohneesh.cyth.me/resume.pdf](https://mohneesh.cyth.me/resume.pdf)
+- 📄 Know about my experiences [https://mohneesh.cyth.me/resume.pdf](https://mohneesh.cyth.me/Mohneesh_resume.pdf)
 
 - ⚡ Fun fact **When I'm not building web apps or leading innovative projects, you'll often find me experimenting in the kitchen, perfecting recipes that bring people together.**
 
