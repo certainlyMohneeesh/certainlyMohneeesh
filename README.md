@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@mythchemical" target="blank"><img src="https://img.shields.io/twitter/follow/@mythchemical?logo=twitter&style=for-the-badge" alt="@mythchemical" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce App](https://github.com/certainlyMohneeesh/e-commerce-react)
+- 🔭 I’m currently working on [Concept Website](https://github.com/certainlyMohneeesh/parathaful)
 
 - 🌱 I’m currently learning **Next.js, ML**
 
