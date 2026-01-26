@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About
+## About
 
 Full-stack developer and tech lead with expertise in **React**, **Next.js**, **TypeScript**, and **Node.js**. I build scalable web applications and explore ML technologies.
 
@@ -34,7 +34,7 @@ Full-stack developer and tech lead with expertise in **React**, **Next.js**, **T
 
 <br/>
 
-## � Currently Building
+## Currently Building
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Full-stack developer and tech lead with expertise in **React**, **Next.js**, **T
 
 <br/>
 
-## �🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** JavaScript, TypeScript, Python, C++
 
@@ -61,7 +61,7 @@ Full-stack developer and tech lead with expertise in **React**, **Next.js**, **T
 
 <br/>
 
-## � GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Full-stack developer and tech lead with expertise in **React**, **Next.js**, **T
 
 <br/>
 
-## �📫 Connect
+##  Let's Connect
 
 <div align="center">
 
