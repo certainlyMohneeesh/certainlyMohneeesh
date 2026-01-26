@@ -40,19 +40,13 @@ Full-stack developer and tech lead with expertise in **React**, **Next.js**, **T
 
 <!-- Retro Terminal Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=4000&pause=1000&color=00FF94&background=0D1117&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING_PROJECT...+%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93.......%5D;%3E+TARGET%3A+Cythical_Labs_Revamp;%3E+STATUS%3A+Deploying+Innovation...;%3E+MODE%3A+Caffeine_Powered+%E2%98%95%EF%B8%8F" alt="Terminal Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=4000&pause=1000&color=00FF94&background=0D1117&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING_PROJECT...+%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93.......%5D;%3E+%F0%9F%90%B9+Mastering_Go+(Node.js_who%3F);%3E+%F0%9F%8C%90+Freelancing_Websites+(2015_called_back);%3E+%F0%9F%8D%B3+Wannabe_Cook+(Good_Food_Fuels_Skills);%3E+MODE%3A+Passion_%26_Ready_To_Ship" alt="Terminal Typing SVG" />
 </a>
 
 </div>
 
 <br/>
-### 📝 Current Quest Log
 
-1. **🐹 Mastering Go** - Embracing a "real" backend language (because Node.js wasn't serious enough apparently 😅)
-2. **🌐 Freelancing Websites** - Building websites for those brave companies still stuck in 2015 who think having an online presence is optional ✨
-3. **☕ Coffee-Fueled Debugging** - My primary skill: converting espresso directly into bug fixes (unlimited supply required)
-
-<br/>
 ## �🛠️ Tech Stack
 
 **Languages:** JavaScript, TypeScript, Python, C++
