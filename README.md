@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="500" height="500" alt="CythicalLabs-B-darkmode" src="https://github.com/user-attachments/assets/ab296017-46d0-4625-bb24-4b806332ff85" />
+<img width="200" alt="CythicalLabs-B-darkmode" src="https://github.com/user-attachments/assets/ab296017-46d0-4625-bb24-4b806332ff85" />
 
 
 <!-- Animated Header -->
@@ -36,7 +36,20 @@ Full-stack developer and tech lead with expertise in **React**, **Next.js**, **T
 
 <br/>
 
-## 🛠️ Tech Stack
+## � Currently Building
+
+<div align="center">
+
+<!-- Retro Terminal Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=4000&pause=1000&color=00FF94&background=0D1117&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING_PROJECT...+%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93.......%5D;%3E+TARGET%3A+Cythical_Labs_Revamp;%3E+STATUS%3A+Deploying+Innovation...;%3E+MODE%3A+Caffeine_Powered+%E2%98%95%EF%B8%8F" alt="Terminal Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+## �🛠️ Tech Stack
 
 **Languages:** JavaScript, TypeScript, Python, C++
 
