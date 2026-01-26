@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="200" alt="CythicalLabs-B-darkmode" src="https://github.com/user-attachments/assets/ab296017-46d0-4625-bb24-4b806332ff85" />
-
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohneesh%20Naidu&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20&descAlignY=55&descSize=18" width="100%"/>
@@ -48,7 +46,13 @@ Full-stack developer and tech lead with expertise in **React**, **Next.js**, **T
 </div>
 
 <br/>
+### 📝 Current Quest Log
 
+1. **🐹 Mastering Go** - Embracing a "real" backend language (because Node.js wasn't serious enough apparently 😅)
+2. **🌐 Freelancing Websites** - Building websites for those brave companies still stuck in 2015 who think having an online presence is optional ✨
+3. **☕ Coffee-Fueled Debugging** - My primary skill: converting espresso directly into bug fixes (unlimited supply required)
+
+<br/>
 ## �🛠️ Tech Stack
 
 **Languages:** JavaScript, TypeScript, Python, C++
@@ -63,7 +67,19 @@ Full-stack developer and tech lead with expertise in **React**, **Next.js**, **T
 
 <br/>
 
-## 📫 Connect
+## � GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=certainlymohneeesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DFFE6&icon_color=3DFFE6&text_color=FFFFFF" alt="github stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=certainlymohneeesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF" alt="top languages"/>
+
+</div>
+
+<br/>
+
+## �📫 Connect
 
 <div align="center">
 
