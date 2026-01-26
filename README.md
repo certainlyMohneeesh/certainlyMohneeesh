@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="500" height="500" alt="CythicalLabs-B-darkmode" src="https://github.com/user-attachments/assets/ab296017-46d0-4625-bb24-4b806332ff85" />
+
+
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohneesh%20Naidu&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20&descAlignY=55&descSize=18" width="100%"/>
 
