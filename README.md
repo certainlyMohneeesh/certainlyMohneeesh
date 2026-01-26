@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohneesh%20Naidu&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20|%20Tech%20Lead&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohneesh%20Naidu&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3DFFE6&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Cyth+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Building+Digital+Experiences+%F0%9F%8E%A8;ML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" /></a>
@@ -27,7 +27,7 @@ Full-stack developer and tech lead with expertise in **React**, **Next.js**, **T
 
 <div align="center">
 
-**[Portfolio](https://cythical.cyth.me)** • **[Blog](https://blog.cyth.me)** • **[GitHub](https://github.com/certainlyMohneeesh)** • **[LinkedIn](https://linkedin.com/in/mohneesh-naidu)**
+**[Portfolio](https://cyth.dev)** • **[Blog](https://blog.cyth.dev)** • **[GitHub](https://github.com/certainlyMohneeesh)** • **[LinkedIn](https://linkedin.com/in/mohneesh-naidu)**
 
 </div>
 
