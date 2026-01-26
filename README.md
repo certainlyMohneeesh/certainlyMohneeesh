@@ -65,9 +65,11 @@ Full-stack developer and tech lead with expertise in **React**, **Next.js**, **T
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=certainlymohneeesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DFFE6&icon_color=3DFFE6&text_color=FFFFFF" alt="github stats"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=certainlymohneeesh&show_icons=true&theme=prussian&hide_border=false&bg_color=0d1929&border_color=0ea5e9&title_color=0ea5e9&icon_color=0ea5e9&text_color=e0f2fe&rank_icon=github" alt="github stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=certainlymohneeesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF" alt="top languages"/>
+<br/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=certainlymohneeesh&layout=compact&theme=prussian&hide_border=false&bg_color=0d1929&border_color=0ea5e9&title_color=0ea5e9&text_color=e0f2fe" alt="top languages"/>
 
 </div>
 
