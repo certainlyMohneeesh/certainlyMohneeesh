@@ -77,7 +77,7 @@ Full-stack developer and tech lead with expertise in **React**, **Next.js**, **T
 
 <div align="center">
 
-<a href="https://cythical.cyth.me">
+<a href="https://cyth.dev">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio"/>
 </a>
 <a href="mailto:certainlymohneesh@gmail.com">
